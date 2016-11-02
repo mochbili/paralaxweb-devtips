@@ -129,12 +129,12 @@ figure{margin:auto}
 .content{background:#fff;margin-bottom:279px}
 .content article{padding:100px 0;max-width:640px;margin:0 auto;text-align:center}
 img{max-width:100%}
-.bird-box{height:600px;background-image:url(/images/bird-bg.jpg);background-size:auto 600px;background-position:top center;background-attachment:fixed;overflow:hidden}
-.bird-box .logo{height:100px;width:100%;background-image:url(/images/black-bird-logo.svg);background-position:center;background-repeat:no-repeat;position:absolute;top:50%;margin-top:-50px}
+.bird-box{height:600px;background-image:url(../../images/bird-bg.jpg);background-size:auto 600px;background-position:top center;background-attachment:fixed;overflow:hidden}
+.bird-box .logo{height:100px;width:100%;background-image:url(../../images/black-bird-logo.svg);background-position:center;background-repeat:no-repeat;position:absolute;top:50%;margin-top:-50px}
 .bird-box .back-bird,.bird-box .fore-bird{width:960px;background-repeat:no-repeat;position:absolute;left:50%;margin-left:-480px}
 .blog-posts,.large-window{margin-top:100px}
-.bird-box .fore-bird{height:733px;background-image:url(/images/fore-bird.png);background-position:right bottom;top:380px}
-.bird-box .back-bird{height:298px;background-image:url(/images/back-bird.png);background-position:top left}
+.bird-box .fore-bird{height:733px;background-image:url(../../images/fore-bird.png);background-position:right bottom;top:380px}
+.bird-box .back-bird{height:298px;background-image:url(../../images/back-bird.png);background-position:top left}
 .clothes-pics{margin-bottom:100px}
 .clothes-pics figure{margin-bottom:20px;position:relative;opacity:0;transform:translateX(20px);transition:all .3s ease-in-out;overflow:hidden;cursor:pointer}
 .clothes-pics figure img{display:block;transform:scale(1);transition:all .3s ease-in-out}
@@ -142,7 +142,7 @@ img{max-width:100%}
 .clothes-pics figure figcaption{position:absolute;bottom:10px;left:-100%;background:#000;color:#fff;padding:2px 8px;font-size:.8em;transition:all .3s ease-in-out}
 .clothes-pics figure:hover figcaption{left:0}
 .clothes-pics figure:hover img{transform:scale(1.1)}
-.large-window{height:640px;background-image:url(/images/model2.jpg);background-position:center 0;background-attachment:fixed;margin-bottom:100px;border-radius:50%;position:relative}
+.large-window{height:640px;background-image:url(../../images/model2.jpg);background-position:center 0;background-attachment:fixed;margin-bottom:100px;border-radius:50%;position:relative}
 .large-window .window-tin{background-color:rgba(0,0,0,.5);position:absolute;top:0;left:0;right:0;bottom:0;border-radius:50%;display:flex;justify-content:center;align-items:center}
 .large-window .window-tin .promo-text{color:#fff;font-weight:100;font-size:3em;line-height:1.2}
 .large-window .window-tin .promo-text strong{display:block;font-size:.7em}
